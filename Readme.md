@@ -1,3 +1,3 @@
 ## Useful Facts
 
-- gateway: displays the default gateway. Only Linux.
+- default_gateway: displays the default gateway. Only Linux.
